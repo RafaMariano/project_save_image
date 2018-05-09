@@ -1,0 +1,7 @@
+br/inpe/filesystem/Image.class
+br/inpe/filesystem/Find$Finder.class
+br/inpe/filesystem/Main.class
+br/inpe/database/Query.class
+br/inpe/filesystem/FileSystem.class
+br/inpe/database/Mongo.class
+br/inpe/filesystem/Find.class
